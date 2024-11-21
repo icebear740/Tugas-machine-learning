@@ -1,4 +1,4 @@
-# Tugas2 Machine Learning
+# Tugas3 Machine Learning
 
 **Nama**: Reival Muhamad Asyari Uzzukru  
 **NPM**: 41155050210018  
